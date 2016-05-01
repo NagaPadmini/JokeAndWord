@@ -37,3 +37,9 @@ Android Components and Libraries Used:
 - SlidingTabLayout
 - TimePicker Dialog
 - AsyncTask
+ 
+
+UI Navigation diagram:
+---------------------
+
+![Alt Text](JokeWord.png)
